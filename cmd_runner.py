@@ -1,7 +1,7 @@
 import os
 import sys
 import argparse
-import importlib
+import importlib.util
 import subprocess
 from typing import List
 
